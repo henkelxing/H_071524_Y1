@@ -1,0 +1,5 @@
+Name: Analog
+Type: FolderType
+Children:
+- File: Float/Float.yaml
+- File: Integer/Integer.yaml

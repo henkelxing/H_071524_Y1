@@ -1,0 +1,12 @@
+Name: Integer
+Type: FolderType
+Children:
+- Name: TotalCans
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 100
+- Name: TotalCansUnit
+  Id: g=33dd6a7628dcbc2c9245228ed9a5cbeb
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 1

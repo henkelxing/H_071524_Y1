@@ -1,0 +1,86 @@
+Name: Trend
+Type: FolderType
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../NetLogic/Clean/TrendVariablesSimulator/iSin"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../NetLogic/Clean/TrendVariablesSimulator/iCos"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../NetLogic/Clean/TrendVariablesSimulator/iRamp"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Variable4
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../NetLogic/Clean/TrendVariablesSimulator/iRamp"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Variable5
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../NetLogic/Clean/TrendVariablesSimulator/iRamp"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: DateTime
+  Type: BaseDataVariableType
+  DataType: DateTime
+  Value: "2021-01-01T09:30:00.0000000"
+- Name: DateTimeQuery
+  Type: BaseDataVariableType
+  DataType: DateTime
+  Value: "2021-01-01T09:30:00.0000000"
+- Name: TimeWindow
+  Id: g=b8a669116d80a7120b3621c3a4e4e80c
+  Type: BaseDataVariableType
+  DataType: Duration
+  Value: "0:00:01:0.0000000"

@@ -1,0 +1,7 @@
+Name: Discrete
+Type: FolderType
+Children:
+- Name: Pump1 Oneshot
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false

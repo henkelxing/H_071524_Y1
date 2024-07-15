@@ -1,0 +1,6 @@
+Name: Float
+Type: FolderType
+Children:
+- File: CS/CS.yaml
+- File: Stage/Stage.yaml
+- File: Usage/Usage.yaml

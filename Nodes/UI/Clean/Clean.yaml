@@ -1,0 +1,7 @@
+Name: Clean
+Type: FolderType
+Children:
+- File: Screens_(Draft)/Screens_(Draft).yaml
+- File: Popup_Screens/Popup_Screens.yaml
+- File: Screens_(Test)/Screens_(Test).yaml
+- File: Screens_(WIP)/Screens_(WIP).yaml

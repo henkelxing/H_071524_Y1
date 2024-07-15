@@ -1,0 +1,7 @@
+Name: Clean
+Type: FolderType
+Children:
+- File: Analog/Analog.yaml
+- File: Discrete/Discrete.yaml
+- File: String/String.yaml
+- File: Data/Data.yaml

@@ -1,0 +1,10 @@
+Name: Groups
+Id: g=33ac98afcbbcd645bc8146197074cc43
+Type: GroupsCategoryFolder
+Children:
+- Name: Group1
+  Id: g=c93115bdc15d48bbee3c1f9c94495778
+  Type: GroupType
+- Name: Group2
+  Id: g=09ae9e57ea4f3d1345c70886ce423d31
+  Type: GroupType

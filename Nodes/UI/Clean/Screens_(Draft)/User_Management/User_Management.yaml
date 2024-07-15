@@ -1,0 +1,5 @@
+Name: User Management
+Type: FolderType
+Children:
+- File: LoginForm1/LoginForm1.yaml
+- File: UserEditor1/UserEditor1.yaml

@@ -1,0 +1,23 @@
+Name: TagImporter
+Type: RAEtherNetIPTagImporter
+OwnerId: ns=2;g=50d117fba604ffb3ea0062b4759d3797
+Children:
+- Name: IgnoredPLCItems
+  Type: BaseDataVariableType
+  DataType: BaseDataType
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+- Name: IgnoredHMIItems
+  Type: BaseDataVariableType
+  DataType: NodeId
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+  Value: []
+- Name: FilePath
+  Type: BaseDataVariableType
+  DataType: AbsoluteResourceUri
+  Value: "file:///D:/(5) Projects/OM24/PLC/OM24_070324_M.ACD"
+- Name: Mode
+  Type: BaseDataVariableType
+  DataType: FetchModes
+  Value: 1

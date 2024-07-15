@@ -1,0 +1,17 @@
+Name: String
+Type: FolderType
+Children:
+- Name: uS
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "uS"
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Program&:MainProgram/SystemInfo/CustomerName"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2

@@ -1,0 +1,23 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_sCaMk" x="0px" y="0px" width="220.254px" height="150.001px" viewBox="0 0 220.254 150.001" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <radialGradient id="Spool_Bevel_1_" cx="145.3496" cy="75.0005" r="15.8926" gradientUnits="userSpaceOnUse">
+    <stop offset="0.7362" style="stop-color:#000000;stop-opacity:0.4"/>
+    <stop offset="0.7791" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+    <stop offset="0.8344" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+    <stop offset="0.8957" style="stop-color:#000000;stop-opacity:0.35"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+  </radialGradient>
+  <path id="Spool_Bevel" style="fill:url(#Spool_Bevel_1_);" d="M145.35,63.282c6.473,0,11.719,5.246,11.719,11.719&#xD;&#xA;&#x9;&#x9;s-5.246,11.719-11.719,11.719S133.631,81.473,133.631,75S138.877,63.282,145.35,63.282 M145.35,59.107&#xD;&#xA;&#x9;&#x9;c-8.762,0-15.893,7.129-15.893,15.893c0,8.762,7.131,15.893,15.893,15.893c8.764,0,15.893-7.131,15.893-15.893&#xD;&#xA;&#x9;&#x9;C161.242,66.237,154.113,59.107,145.35,59.107L145.35,59.107z"/>
+  <linearGradient id="Spool_Shadow_1_" gradientUnits="userSpaceOnUse" x1="145.3506" y1="59.1084" x2="145.3506" y2="90.8945">
+    <stop offset="0.0552" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.4294" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.4908" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.7607" style="stop-color:#000000;stop-opacity:0.3"/>
+  </linearGradient>
+  <path id="Spool_Shadow" style="fill:url(#Spool_Shadow_1_);" d="M145.351,61.539c7.436,0,13.463,6.028,13.463,13.463&#xD;&#xA;&#x9;&#x9;c0,7.438-6.027,13.465-13.463,13.465c-7.437,0-13.464-6.027-13.464-13.465C131.887,67.567,137.914,61.539,145.351,61.539&#xD;&#xA;&#x9;&#x9; M145.351,59.108c-8.763,0-15.894,7.129-15.894,15.893c0,8.763,7.131,15.893,15.894,15.893c8.764,0,15.893-7.13,15.893-15.893&#xD;&#xA;&#x9;&#x9;C161.243,66.238,154.114,59.108,145.351,59.108L145.351,59.108z"/>
+  <path id="Spool_Outline" d="M145.351,59.108c8.764,0,15.893,7.129,15.893,15.893c0,8.763-7.129,15.893-15.893,15.893&#xD;&#xA;&#x9;&#x9;c-8.763,0-15.894-7.13-15.894-15.893C129.457,66.238,136.588,59.108,145.351,59.108 M145.351,58.522&#xD;&#xA;&#x9;&#x9;c-9.087,0-16.479,7.392-16.479,16.479c0,9.086,7.393,16.479,16.479,16.479s16.479-7.393,16.479-16.479&#xD;&#xA;&#x9;&#x9;C161.829,65.915,154.438,58.522,145.351,58.522L145.351,58.522z"/>
+  <radialGradient id="Spool_Gradation_1_" cx="145.3496" cy="75.0015" r="11.7188" gradientUnits="userSpaceOnUse">
+    <stop offset="0.6961" style="stop-color:#000000;stop-opacity:0.2"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.15"/>
+  </radialGradient>
+  <path id="Spool_Gradation" style="fill:url(#Spool_Gradation_1_);" d="M145.35,63.282c6.473,0,11.719,5.247,11.719,11.719&#xD;&#xA;&#x9;&#x9;S151.822,86.72,145.35,86.72s-11.719-5.246-11.719-11.719S138.877,63.282,145.35,63.282"/>
+</svg>

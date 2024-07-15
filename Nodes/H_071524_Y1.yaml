@@ -1,0 +1,72 @@
+Name: H_071524_Y1
+Type: ProjectFolder
+Children:
+- Name: Localization
+  Type: PropertyGroup
+  Children:
+  - Name: Locales
+    Type: BaseDataVariableType
+    DataType: LocaleId
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+    Value: ["en-US","es-ES","zh-CN"]
+  - Name: LocaleFallbackList
+    Type: BaseDataVariableType
+    DataType: LocaleId
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+    Value: ["en-US"]
+  - Name: MeasurementSystemMap
+    Type: BaseDataVariableType
+    DataType: MeasurementSystemMapItem
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+    Value: [{"TypeId":{"Id":235,"Namespace":1},"Body":{"From":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4604232,"NamespaceIndex":0}},"InternationalSystemOfUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4408652,"NamespaceIndex":0}},"USCustomarySystem":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4604232,"NamespaceIndex":0}},"BritishImperialUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4604232,"NamespaceIndex":0}}}},{"TypeId":{"Id":235,"Namespace":1},"Body":{"From":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4672588,"NamespaceIndex":0}},"InternationalSystemOfUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":5002322,"NamespaceIndex":0}},"USCustomarySystem":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4672588,"NamespaceIndex":0}},"BritishImperialUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4672585,"NamespaceIndex":0}}}},{"TypeId":{"Id":235,"Namespace":1},"Body":{"From":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4997714,"NamespaceIndex":0}},"InternationalSystemOfUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4933453,"NamespaceIndex":0}},"USCustomarySystem":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4997714,"NamespaceIndex":0}},"BritishImperialUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4997714,"NamespaceIndex":0}}}},{"TypeId":{"Id":235,"Namespace":1},"Body":{"From":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4609099,"NamespaceIndex":0}},"InternationalSystemOfUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":5067851,"NamespaceIndex":0}},"USCustomarySystem":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4609099,"NamespaceIndex":0}},"BritishImperialUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":4609099,"NamespaceIndex":0}}}},{"TypeId":{"Id":235,"Namespace":1},"Body":{"From":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":18000,"NamespaceIndex":0}},"InternationalSystemOfUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":12856,"NamespaceIndex":0}},"USCustomarySystem":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":18000,"NamespaceIndex":0}},"BritishImperialUnits":{"TypeId":{"Id":244,"Namespace":1},"Body":{"Id":18000,"NamespaceIndex":0}}}}]
+- Name: Authentication
+  Type: PropertyGroup
+  Children:
+  - Name: DefaultUserFolder
+    Type: NodePointer
+    DataType: NodeId
+    Value: "/Objects/H_071524_Y1/Security/Users"
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: "/Types/ObjectTypes/BaseObjectType/FolderType"
+- Name: PasswordPolicy
+  Type: PasswordPolicy
+  Children:
+  - Name: MaximumPasswordAge
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: EnforcePasswordHistory
+    Type: BaseDataVariableType
+    DataType: Byte
+    Value: 1
+  - Name: MinimumPasswordAge
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 0
+  - Name: MinimumPasswordLength
+    Type: BaseDataVariableType
+    DataType: Byte
+    Value: 8
+- Name: AlarmConfiguration
+  Type: PropertyGroup
+- File: UI/UI.yaml
+- File: Model/Model.yaml
+- File: Converters/Converters.yaml
+- File: Alarms/Alarms.yaml
+- File: Recipes/Recipes.yaml
+- File: Loggers/Loggers.yaml
+- File: DataStores/DataStores.yaml
+- File: Reports/Reports.yaml
+- File: 'OPC-UA/OPC-UA.yaml'
+- File: CommDrivers/CommDrivers.yaml
+- File: NetLogic/NetLogic.yaml
+- File: Security/Security.yaml
+- File: System/System.yaml
+- File: Translations/Translations.yaml
+- File: Retentivity/Retentivity.yaml

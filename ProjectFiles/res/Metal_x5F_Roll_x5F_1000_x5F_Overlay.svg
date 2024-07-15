@@ -1,0 +1,111 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_sCaMk" x="0px" y="0px" width="220.254px" height="150.001px" viewBox="0 0 220.254 150.001" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="Feed_Gradation_100_1_" gradientUnits="userSpaceOnUse" x1="29.2305" y1="184.8354" x2="113.9263" y2="113.7672">
+    <stop offset="0.1288" style="stop-color:#000000;stop-opacity:0.45"/>
+    <stop offset="0.2025" style="stop-color:#CFEDB8;stop-opacity:0.3"/>
+    <stop offset="0.2515" style="stop-color:#000000;stop-opacity:0.3"/>
+    <stop offset="0.3436" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.4724" style="stop-color:#000000;stop-opacity:0.35"/>
+    <stop offset="0.4799" style="stop-color:#040607;stop-opacity:0.328"/>
+    <stop offset="0.491" style="stop-color:#0E181B;stop-opacity:0.2959"/>
+    <stop offset="0.5042" style="stop-color:#1F343B;stop-opacity:0.2574"/>
+    <stop offset="0.5191" style="stop-color:#375C68;stop-opacity:0.2142"/>
+    <stop offset="0.5353" style="stop-color:#568EA1;stop-opacity:0.1669"/>
+    <stop offset="0.5525" style="stop-color:#7BCBE6;stop-opacity:0.1169"/>
+    <stop offset="0.5583" style="stop-color:#88E1FF;stop-opacity:0.1"/>
+    <stop offset="0.6196" style="stop-color:#000000;stop-opacity:0.25"/>
+    <stop offset="0.7301" style="stop-color:#000000;stop-opacity:0.5"/>
+    <stop offset="0.9141" style="stop-color:#000000;stop-opacity:0.35"/>
+  </linearGradient>
+  <path id="Feed_Gradation_100" style="fill:url(#Feed_Gradation_100_1_);" d="M126.545,147.638L0,147.659V150l144.31-0.023&#xD;&#xA;&#x9;&#x9;C138.187,149.9,132.234,149.104,126.545,147.638z"/>
+  <linearGradient id="Feed_Texture_100_1_" gradientUnits="userSpaceOnUse" x1="72.1548" y1="147.6382" x2="72.1548" y2="150.0005">
+    <stop offset="0.2104" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.2567" style="stop-color:#000000;stop-opacity:0.15"/>
+    <stop offset="0.6337" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.6866" style="stop-color:#000000;stop-opacity:0.45"/>
+  </linearGradient>
+  <path id="Feed_Texture_100" style="fill:url(#Feed_Texture_100_1_);" d="M126.545,147.638L0,147.659V150l144.31-0.023&#xD;&#xA;&#x9;&#x9;C138.187,149.9,132.234,149.104,126.545,147.638z"/>
+  <image style="overflow:visible;" width="151" height="151" id="Roll_Gradation_100" xlink:href="8734A8E9.png" transform="matrix(1 0 0 1 70.3066 -0.396)"/>
+  <radialGradient id="Roll_Texture_100_1_" cx="144.5957" cy="61.8774" r="61.668" gradientTransform="matrix(1.2162 0 0 1.2162 -30.5062 -0.2543)" gradientUnits="userSpaceOnUse">
+    <stop offset="0.21" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.22" style="stop-color:#000000"/>
+    <stop offset="0.23" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.24" style="stop-color:#000000"/>
+    <stop offset="0.25" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.26" style="stop-color:#000000"/>
+    <stop offset="0.27" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.28" style="stop-color:#000000"/>
+    <stop offset="0.29" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.3" style="stop-color:#000000"/>
+    <stop offset="0.31" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.32" style="stop-color:#000000"/>
+    <stop offset="0.33" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.34" style="stop-color:#000000"/>
+    <stop offset="0.35" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.36" style="stop-color:#000000"/>
+    <stop offset="0.37" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.38" style="stop-color:#000000"/>
+    <stop offset="0.39" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.4" style="stop-color:#000000"/>
+    <stop offset="0.41" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.42" style="stop-color:#000000"/>
+    <stop offset="0.43" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.44" style="stop-color:#000000"/>
+    <stop offset="0.45" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.46" style="stop-color:#000000"/>
+    <stop offset="0.47" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.48" style="stop-color:#000000"/>
+    <stop offset="0.49" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.5" style="stop-color:#000000"/>
+    <stop offset="0.51" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.52" style="stop-color:#000000"/>
+    <stop offset="0.53" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.54" style="stop-color:#000000"/>
+    <stop offset="0.55" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.56" style="stop-color:#000000"/>
+    <stop offset="0.57" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.58" style="stop-color:#000000"/>
+    <stop offset="0.59" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.6" style="stop-color:#000000"/>
+    <stop offset="0.61" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.62" style="stop-color:#000000"/>
+    <stop offset="0.63" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.64" style="stop-color:#000000"/>
+    <stop offset="0.65" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.66" style="stop-color:#000000"/>
+    <stop offset="0.67" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.68" style="stop-color:#000000"/>
+    <stop offset="0.69" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.7" style="stop-color:#000000"/>
+    <stop offset="0.71" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.72" style="stop-color:#000000"/>
+    <stop offset="0.73" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.74" style="stop-color:#000000"/>
+    <stop offset="0.75" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.76" style="stop-color:#000000"/>
+    <stop offset="0.77" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.78" style="stop-color:#000000"/>
+    <stop offset="0.79" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.8" style="stop-color:#000000"/>
+    <stop offset="0.81" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.82" style="stop-color:#000000"/>
+    <stop offset="0.83" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.84" style="stop-color:#000000"/>
+    <stop offset="0.85" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.86" style="stop-color:#000000"/>
+    <stop offset="0.87" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.88" style="stop-color:#000000"/>
+    <stop offset="0.89" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.9" style="stop-color:#000000"/>
+    <stop offset="0.91" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.92" style="stop-color:#000000"/>
+    <stop offset="0.93" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.94" style="stop-color:#000000"/>
+    <stop offset="0.95" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.96" style="stop-color:#000000"/>
+    <stop offset="0.97" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.98" style="stop-color:#000000"/>
+    <stop offset="0.99" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="1" style="stop-color:#000000"/>
+  </radialGradient>
+  <circle id="Roll_Texture_100" style="opacity:0.75;fill:url(#Roll_Texture_100_1_);" cx="145.35" cy="75.001" r="75.001"/>
+</svg>
